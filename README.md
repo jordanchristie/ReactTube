@@ -1,2 +1,3 @@
 # ReactTube
-Created with CodeSandbox
+
+YouTube API search app with React and Bootstrap
